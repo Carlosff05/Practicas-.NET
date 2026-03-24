@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\bin\Debug\net10.0\Ej09.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\bin\Debug\net10.0\Ej09.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\bin\Debug\net10.0\Ej09.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\bin\Debug\net10.0\Ej09.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\bin\Debug\net10.0\Ej09.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\refint\Ej09.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\Ej09.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\Ej09\obj\Debug\net10.0\ref\Ej09.dll

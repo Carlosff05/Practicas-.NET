@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\bin\Debug\net10.0\PracticasModulo2_Variables.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\bin\Debug\net10.0\PracticasModulo2_Variables.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\bin\Debug\net10.0\PracticasModulo2_Variables.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\bin\Debug\net10.0\PracticasModulo2_Variables.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\bin\Debug\net10.0\PracticasModulo2_Variables.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\refint\PracticasModulo2_Variables.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\PracticasModulo2_Variables.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo2_Variables\PracticasModulo2_Variables\obj\Debug\net10.0\ref\PracticasModulo2_Variables.dll
