@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\bin\Debug\net10.0\PracticasModulo3_BclesCondComen.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\bin\Debug\net10.0\PracticasModulo3_BclesCondComen.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\bin\Debug\net10.0\PracticasModulo3_BclesCondComen.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\bin\Debug\net10.0\PracticasModulo3_BclesCondComen.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\bin\Debug\net10.0\PracticasModulo3_BclesCondComen.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\refint\PracticasModulo3_BclesCondComen.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\PracticasModulo3_BclesCondComen.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen\obj\Debug\net10.0\ref\PracticasModulo3_BclesCondComen.dll

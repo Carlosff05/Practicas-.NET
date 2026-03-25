@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticasModulo3_BclesCondComen", "PracticasModulo3_BclesCondComen\PracticasModulo3_BclesCondComen.csproj", "{7B33203A-6F5B-4F8C-AC1F-827AA949DB6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EjerciciosResueltos", "EjerciciosResueltos", "{65BAB89A-BE94-4CAE-BA8C-46AB7D539B2D}"
+	ProjectSection(SolutionItems) = preProject
+		Ej01.cs = Ej01.cs
+		Ej02.cs = Ej02.cs
+		Ej03.cs = Ej03.cs
+		Ej04.cs = Ej04.cs
+		Ej05.cs = Ej05.cs
+		Ej06.cs = Ej06.cs
+		Ej07.cs = Ej07.cs
+		Ej08.cs = Ej08.cs
+		Ej09.cs = Ej09.cs
+		Ej10.cs = Ej10.cs
+		Ej11.cs = Ej11.cs
+		Ej12.cs = Ej12.cs
+		Ej13.cs = Ej13.cs
+		Ej14.cs = Ej14.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B33203A-6F5B-4F8C-AC1F-827AA949DB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B33203A-6F5B-4F8C-AC1F-827AA949DB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B33203A-6F5B-4F8C-AC1F-827AA949DB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B33203A-6F5B-4F8C-AC1F-827AA949DB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
