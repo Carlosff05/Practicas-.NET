@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\bin\Debug\net10.0\Ej05.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\bin\Debug\net10.0\Ej05.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\bin\Debug\net10.0\Ej05.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\bin\Debug\net10.0\Ej05.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\bin\Debug\net10.0\Ej05.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\refint\Ej05.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\Ej05.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo4_POO\Ej05\obj\Debug\net10.0\ref\Ej05.dll

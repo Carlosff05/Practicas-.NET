@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\PracticasModulo4_POO\\PracticasModulo4_POO.csproj": {}
+    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\Ej05\\Ej05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\PracticasModulo4_POO\\PracticasModulo4_POO.csproj": {
+    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\Ej05\\Ej05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\PracticasModulo4_POO\\PracticasModulo4_POO.csproj",
-        "projectName": "PracticasModulo4_POO",
-        "projectPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\PracticasModulo4_POO\\PracticasModulo4_POO.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\Ej05\\Ej05.csproj",
+        "projectName": "Ej05",
+        "projectPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\Ej05\\Ej05.csproj",
         "packagesPath": "C:\\Users\\carlos.ffernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\PracticasModulo4_POO\\obj\\",
+        "outputPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo4_POO\\Ej05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlos.ffernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
