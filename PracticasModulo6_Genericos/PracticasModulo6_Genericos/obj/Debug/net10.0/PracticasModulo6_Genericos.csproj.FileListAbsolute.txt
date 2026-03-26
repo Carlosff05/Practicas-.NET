@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\bin\Debug\net10.0\PracticasModulo6_Genericos.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\bin\Debug\net10.0\PracticasModulo6_Genericos.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\bin\Debug\net10.0\PracticasModulo6_Genericos.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\bin\Debug\net10.0\PracticasModulo6_Genericos.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\bin\Debug\net10.0\PracticasModulo6_Genericos.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\refint\PracticasModulo6_Genericos.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\PracticasModulo6_Genericos.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo6_Genericos\PracticasModulo6_Genericos\obj\Debug\net10.0\ref\PracticasModulo6_Genericos.dll

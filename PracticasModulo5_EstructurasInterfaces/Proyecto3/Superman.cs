@@ -14,7 +14,7 @@ public class Superman : IPajaro, IAvion
 
     public void Volar()
     {
-        Console.WriteLine("Es superman!");
+        Console.WriteLine("No! Es... Superman!");
     }
 
     public void Aletear()
