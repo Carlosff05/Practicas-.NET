@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\bin\Debug\net10.0\Proyecto2.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\bin\Debug\net10.0\Proyecto2.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\bin\Debug\net10.0\Proyecto2.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\bin\Debug\net10.0\Proyecto2.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\bin\Debug\net10.0\Proyecto2.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\refint\Proyecto2.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\Proyecto2.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo5_EstructurasInterfaces\Proyecto2\obj\Debug\net10.0\ref\Proyecto2.dll

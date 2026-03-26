@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PracticasModulo5_EstructurasInterfaces/1.0.0": {
+        "runtime": {
+          "PracticasModulo5_EstructurasInterfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticasModulo5_EstructurasInterfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

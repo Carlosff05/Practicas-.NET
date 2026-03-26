@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PracticasModulo3_BclesCondComen")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8765e60128e306df00a4cc1b57d3a39465c7818")]
-[assembly: System.Reflection.AssemblyProductAttribute("PracticasModulo3_BclesCondComen")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PracticasModulo3_BclesCondComen")]
+[assembly: System.Reflection.AssemblyProductAttribute("Proyecto4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Proyecto4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
