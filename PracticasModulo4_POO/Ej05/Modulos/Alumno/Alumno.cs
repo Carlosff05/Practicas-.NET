@@ -14,4 +14,9 @@ public class Alumno
         get => nombre;
         set => nombre = value ?? throw new ArgumentNullException(nameof(value));
     }
+
+    override public string ToString()
+    {
+        return Nombre;
+    }
 }

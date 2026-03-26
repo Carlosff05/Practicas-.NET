@@ -58,6 +58,19 @@ public abstract class Curso
 
     public Alumno[] Alumnos => alumnos;
 
+    /*
+     * Esto es una propiedad indexada, basicamente sirve para llamarla como si el objeto fuera un array,
+     * es decir, si tengo el curso c1 y quiero al Alumno 1 lo llamaré con c1[1]
+     */
+    public Alumno this[int indice]
+    {
+        get
+        {
+            return alumIndex[indice];
+        }
+    }
+
+
     public Curso(string titulo, double precio, int horas, Alumno[] nAlumnos)
     {
         Titulo = titulo;
@@ -71,7 +84,13 @@ public abstract class Curso
     private double precio;
     private int horas;
     private Alumno[] alumnos =  new Alumno[100];
+    private Alumno[] alumIndex = new Alumno[100];
     private int nAlumnos = 0;
+    public static int totalAlumnos = 0;
+
+    //El uso de los eventos necesita de delegados
+    public delegate void Matriculado(Alumno alumno);
+    public static event Matriculado OnMatriculado;
 
     public virtual void MostrarInfo()
     {
@@ -85,7 +104,15 @@ public abstract class Curso
 
     public void MatricularAlumno(Alumno alumno, int posicion)
     {
+        int aux = nAlumnos;
         alumnos[posicion] = alumno;
+        alumIndex[posicion] = alumno;
         nAlumnos++;
+        totalAlumnos++;
+        /*
+         * El evento se pone en el método en el cual queremos mostrar información e invoca el parametro necesario
+         * para el delegado
+         */ 
+        OnMatriculado.Invoke(alumno);
     }
 }
