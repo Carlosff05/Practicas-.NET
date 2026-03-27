@@ -1,11 +1,9 @@
-﻿using System.Numerics;
-
-namespace Proyecto1;
+﻿namespace Proyecto1;
 
 public class AccionPersona<TPersona>
 {
-    public TPersona Persona1 { get; set; }
-    public TPersona Persona2 { get; set; }
+    private TPersona Persona1 { get; }
+    private TPersona Persona2 { get; }
     
     public AccionPersona(TPersona persona, TPersona persona2)
     {
@@ -15,15 +13,15 @@ public class AccionPersona<TPersona>
 
     public bool Comparacion()
     {
-        return Persona1.Equals(Persona2);
+        return Persona1!.Equals(Persona2);
     }
     
     public string Union()
     {
         if (EsNumero(Persona1) && EsNumero(Persona2))
         {
-            dynamic a = Persona1;
-            dynamic b = Persona2;
+            dynamic a = Persona1!;
+            dynamic b = Persona2!;
             return $"La suma es: {a + b}";
         }
         return Persona1 + " " + Persona2;
@@ -42,7 +40,7 @@ public class AccionPersona<TPersona>
 
     public string ImprimeConcreto<TArray, TPosicion>(TArray[] datos, TPosicion posicion)
     {
-        dynamic accion = posicion;
-        return datos[accion - 1].ToString();
+        dynamic accion = posicion!;
+        return datos[accion - 1]!.ToString()!;
     }
 }
