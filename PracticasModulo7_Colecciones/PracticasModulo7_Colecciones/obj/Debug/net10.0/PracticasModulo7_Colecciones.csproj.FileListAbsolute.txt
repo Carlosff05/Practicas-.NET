@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\bin\Debug\net10.0\PracticasModulo7_Colecciones.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\bin\Debug\net10.0\PracticasModulo7_Colecciones.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\bin\Debug\net10.0\PracticasModulo7_Colecciones.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\bin\Debug\net10.0\PracticasModulo7_Colecciones.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\bin\Debug\net10.0\PracticasModulo7_Colecciones.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\refint\PracticasModulo7_Colecciones.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\PracticasModulo7_Colecciones.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo7_Colecciones\PracticasModulo7_Colecciones\obj\Debug\net10.0\ref\PracticasModulo7_Colecciones.dll
