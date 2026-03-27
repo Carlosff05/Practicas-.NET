@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones.csproj": {}
+    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\Proyecto3\\Proyecto3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones.csproj": {
+    "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\Proyecto3\\Proyecto3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones.csproj",
-        "projectName": "PracticasModulo7_Colecciones",
-        "projectPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\Proyecto3\\Proyecto3.csproj",
+        "projectName": "Proyecto3",
+        "projectPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\Proyecto3\\Proyecto3.csproj",
         "packagesPath": "C:\\Users\\carlos.ffernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\PracticasModulo7_Colecciones\\obj\\",
+        "outputPath": "C:\\Users\\carlos.ffernandez\\RiderProjects\\Practicas-.NET\\PracticasModulo7_Colecciones\\Proyecto3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlos.ffernandez\\AppData\\Roaming\\NuGet\\NuGet.Config"
