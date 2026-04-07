@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-ArrayList aList = new ArrayList();
+List<int> aList = new List<int>();
 
 int num = default;
 

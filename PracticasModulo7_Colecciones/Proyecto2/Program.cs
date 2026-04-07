@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-Hashtable tabla = new Hashtable();
+Dictionary<int, string> diccionario = new Dictionary<int, string>();
 
 string nombre, largo, corto;
 int contador = 0, media = 0;
@@ -11,16 +11,16 @@ do
     nombre = Console.ReadLine()!;
     if (!string.IsNullOrEmpty(nombre))
     {
-        tabla.Add(contador, nombre);
+        diccionario.Add(contador, nombre);
         contador++;
     }
-    largo = (string) tabla[contador - 1]!;
-    corto = (string) tabla[contador - 1]!;
+    largo = diccionario[contador - 1]!;
+    corto = diccionario[contador - 1]!;
 } while(!string.IsNullOrEmpty(nombre));
 
-foreach (int key in tabla.Keys)
+foreach (int key in diccionario.Keys)
 {
-    string aux = (string) tabla[key]!;
+    string aux = diccionario[key]!;
 
     if (aux.Length > largo.Length)
     {
@@ -36,7 +36,7 @@ foreach (int key in tabla.Keys)
 }
 
 media /= contador;
-Console.WriteLine($"Usted ha introducido {tabla.Count} nombres.");
+Console.WriteLine($"Usted ha introducido {diccionario.Count} nombres.");
 Console.WriteLine($"El nombre mas largo es: {largo}");
 Console.WriteLine($"El nombre mas corto es: {corto}");
 
@@ -49,7 +49,7 @@ do
 
     if (posicion != 0)
     {
-        string elegido = (string)tabla[posicion - 1]!;
+        string elegido = diccionario[posicion - 1]!;
         elegido = elegido.ToUpper();
 
         if (elegido.Length > media)
@@ -64,7 +64,5 @@ do
         {
             Console.WriteLine($"En la posición {posicion}: {elegido}. Está en la media de longitud");
         }
-        
-        
     }
 } while(posicion != 0);

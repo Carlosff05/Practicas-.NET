@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 using Proyecto3;
 
-Queue personas = new Queue();
+Queue<Persona> personas = new Queue<Persona>();
 int eleccion;
 
 do
