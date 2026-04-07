@@ -1,0 +1,15 @@
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\bin\Debug\net10.0\PracticasModulo8_LINQ.exe
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\bin\Debug\net10.0\PracticasModulo8_LINQ.deps.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\bin\Debug\net10.0\PracticasModulo8_LINQ.runtimeconfig.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\bin\Debug\net10.0\PracticasModulo8_LINQ.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\bin\Debug\net10.0\PracticasModulo8_LINQ.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.AssemblyInfoInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.AssemblyInfo.cs
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.sourcelink.json
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\refint\PracticasModulo8_LINQ.dll
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.pdb
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\PracticasModulo8_LINQ.genruntimeconfig.cache
+C:\Users\carlos.ffernandez\RiderProjects\Practicas-.NET\PracticasModulo8_LINQ\PracticasModulo8_LINQ\obj\Debug\net10.0\ref\PracticasModulo8_LINQ.dll
